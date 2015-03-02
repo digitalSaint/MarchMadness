@@ -1,3 +1,3 @@
-```python
+```shell
 python MarchMadness.py
 ```
